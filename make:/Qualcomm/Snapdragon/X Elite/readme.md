@@ -8,3 +8,6 @@ Home: https://www.qualcomm.com/products/mobile/snapdragon/pcs-and-tablets/snapdr
 
 # Demo:
 - [Qualcomm Snapdragon X Elite Update and Demo](https://youtu.be/Auz3Sde2g_E)
+
+# OS: Linux
+- [Linux on Snapdragon X Elite Laptop with Tim Benton at the Linaro booth at Embedded World 2024 #ew24](https://youtu.be/rEaGyCAS9fY)
