@@ -1,0 +1,2 @@
+- [it begins... the DEATH of x86](https://youtu.be/4KF9W49Gjxw)
+- [Intel have just made their BIGGEST MISTAKE yet](https://youtu.be/LtY03HfhjpQ)
